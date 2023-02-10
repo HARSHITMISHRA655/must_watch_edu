@@ -1,4 +1,5 @@
 .sidebar{
+    background-color: aliceblue;
     width: 30vw;
     height: calc(100vh - 80px);
 }

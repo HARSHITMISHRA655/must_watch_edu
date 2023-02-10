@@ -1,0 +1,9 @@
+.displaySidebar:hover{
+    box-shadow: none;
+    border-radius: 50%;
+}
+.displaySidebar:focus:active {
+    background-image: none;
+    outline: 0;
+    box-shadow: none;
+}
